@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "imageProfile.jpeg"
   name             : "Amir Fakharzadeh"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "Software and Cloud Enthusiastic"
+  pronouns         : # example: "she/her"  
+  bio              : "Software Engineer"
   location         : "Tehran, Iran"
   employer         : "Bale Messenger"
   uri              : # URL
