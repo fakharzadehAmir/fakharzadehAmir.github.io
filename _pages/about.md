@@ -20,13 +20,13 @@ Courses that I was Teaching Assistant:
 - System Analysis and Design - *Dr. Ashtiani*
 Work Experience
 ======
-### Bale Messenger
+### Bale Messenger (Apr 2024 - Present)
 I've been a Software Engineer at [Bale Messenger](https://www.linkedin.com/company/balemessenger), a leading messaging platform in Iran, since April   2024. Bale is a versatile app with over 30 million users, offering a wide range of features beyond messaging, including financial transactions and e-commerce.
 
 During my time at Bale Messenger, I optimized performance through caching and asynchronous operations, developed features like Similar Channels and Story Assignment, and improved infrastructure with HPA. I also streamlined workflows with automation and built data pipelines for analytics and personalization.
 
-### Daayar
-As a part-time Software Engineer at [Daayar](https://daayar.com/), a platform for parents to connect with instructors and access educational content, I focused on building scalable and efficient backend systems. (Aug 2023 - Apr 2024)
+### Daayar (Aug 2023 - Apr 2024)
+As a part-time Software Engineer at [Daayar](https://daayar.com/), a platform for parents to connect with instructors and access educational content, I focused on building scalable and efficient backend systems. 
 
 During my time at Daayar, I focused on enhancing the platform's backend infrastructure. I implemented MinIO for secure and scalable file storage, developed new APIs using TDD principles to ensure code quality, and optimized database performance by leveraging PostgreSQL and Redis. Additionally, I employed HyperLogLog to track user engagement and refine content recommendations.
 
