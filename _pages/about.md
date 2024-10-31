@@ -18,6 +18,7 @@ Courses that I was Teaching Assistant:
 - Fundamentals of Database Design - *Dr. Rahmani*
 - Data Structure - *Dr. Abdi*
 - System Analysis and Design - *Dr. Ashtiani*
+
 Work Experience
 ======
 ### Bale Messenger (Apr 2024 - Present)
