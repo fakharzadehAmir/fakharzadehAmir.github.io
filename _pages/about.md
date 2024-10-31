@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who I Am?"
+title: "Who Am I?"
 author_profile: true
 redirect_from: 
   - /about/
@@ -35,10 +35,10 @@ As a part-time Software Engineer at Daayar, a platform for parents to connect wi
 - **Data Analytics**: Employed HyperLogLog to track user engagement and optimize content recommendations.
 
 Skills and Tools
-------
+======
 I am proficient in a wide range of tools and technologies, including container orchestration (Kubernetes, Docker), messaging systems (Kafka, RabbitMQ), databases (PostgreSQL, MongoDB, Scylla), and cloud-native technologies (Envoy, Prometheus, Grafana). I have strong programming skills in Golang, Python, and C/C++, and experience with frameworks like Gin/Echo, Django, and React. Additionally, I am familiar with design patterns, eBPF, and various CI/CD tools like GitLab CI/CD.
 
-• **Tools**: Kubernetes, Docker, Kafka, Git, Helm, Redis, PostgreSQL, MongoDB, Scylla, Envoy, Grafana, Prometheus, MinIO, GitLab CI/CD, RabbitMQ, Jaeger, Graylog, Open Tracing, ELK, Numpy, Pandas, Clickhouse, FluxCD
-• **Programming Language**: Golang, Bash Scripting, Python, C/C++, C#, Javascript
-• **Framework**: Gin/Echo, Django, React
-• **Others**: Design System, Design Patterns, eBPF, ANTLR, Golinter, TraceCompass
+- **Tools**: Kubernetes, Docker, Kafka, Git, Helm, Redis, PostgreSQL, MongoDB, Scylla, Envoy, Grafana, Prometheus, MinIO, GitLab CI/CD, RabbitMQ, Jaeger, Graylog, Open Tracing, ELK, Numpy, Pandas, Clickhouse, FluxCD
+- **Programming Language**: Golang, Bash Scripting, Python, C/C++, C#, Javascript
+- **Framework**: Gin/Echo, Django, React
+- **Others**: Design System, Design Patterns, eBPF, ANTLR, Golinter, TraceCompass
