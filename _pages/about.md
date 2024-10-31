@@ -11,8 +11,13 @@ As a passionate software enthusiast, I'm driven by a relentless curiosity to exp
 
 Education
 ======
-I initiated my academic pursuit in Computer Engineering at [Iran University of Science and Technology](https://ce-inter.iust.ac.ir/) in 2020. Beyond the traditional classroom, I've actively contributed to the academic community. This includes serving as a Teaching Assistant and taking on a pivotal role as a Project Designer for a software engineering [CESA](https://www.linkedin.com/company/cesa-iust) bootcamp. In this capacity, I was instrumental in conceptualizing, planning, and overseeing the development of a comprehensive software project, encompassing a wide range of tools and methodologies.
+I initiated my academic pursuit in Computer Engineering at [Iran University of Science and Technology](https://ce-inter.iust.ac.ir/) in 2020(**GPA 3.6/4**). Beyond the traditional classroom, I've actively contributed to the academic community. This includes serving as a Teaching Assistant and taking on a pivotal role as a Project Designer for a software engineering [CESA](https://www.linkedin.com/company/cesa-iust) bootcamp. In this capacity, I was instrumental in conceptualizing, planning, and overseeing the development of a comprehensive software project, encompassing a wide range of tools and methodologies.
 
+Courses that I was Teaching Assistant:
+- Fundamentals of Programming - *Dr. Rafiei*
+- Fundamentals of Database Design - *Dr. Rahmani*
+- Data Structure - *Dr. Abdi*
+- System Analysis and Design - *Dr. Ashtiani*
 Work Experience
 ======
 ### Bale Messenger
